@@ -1,0 +1,67 @@
+{
+    "bestselling": [
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/inverter/Inverex-Nitrox12KW-48VSolar-inverter-Three-phase.jpg"
+            ],
+            "category_id": "2",
+            "title": "Inverex Nitrox 12 KW - 48 V Solar inverter (Three phase)",
+            "price": "24000",
+            "product_detail": [
+                "15600 WATTS MPPT SUPPORTS UP TO 600 WATTS SOLAR PANEL",
+                "240 AMP Solar charger",
+                "Smart Pv Monitoring Platform",
+                "Stick logger",
+                "Max. Efficiency 97.6%",
+                "Support Multiple Parallel",
+                "Zero Export",
+                "RS485 / CAN",
+                "Efficiency",
+                "IP65 Ingress Protection",
+                "Support Generator Connection",
+                "High Surge Endurance",
+                "High Power Factor",
+                "Touch Screen Display",
+                "MPPT",
+                "Internal SPD",
+                "Six-Time of Use Setting Safe",
+                "Built-in AC Breaker",
+                "Dual 3 Phase Output"
+            ]
+        },
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/batteries/batteries-1.jpg"
+            ],
+            "category_id": "3",
+            "title": "Inverex Tall Tubular 12V-220Ah Battery",
+            "price": "24000",
+            "product_detail": [
+                "Domestic inverter/UPS System",
+                "Solar &wind power storage",
+                "Fire alarm& security systems",
+                "Emergency lighting Telecommunication Elevator back-ups Hotel, banks, office use",
+                "Fast charging Electrolyte level indicator",
+                "Long-life",
+                "Supports frequent/long power cuts",
+                "Warranty 12Months"
+            ]
+        },
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/plates/6.jpg"
+            ],
+            "category_id": "1",
+            "title": "180- Watt Mono Perc Solar Panel",
+            "price": "24000",
+            "product_detail": [
+                "Industry leading module power output warranty",
+                "International quality, safety and performance certifications",
+                "Manufacturing facility certified to 1S09001 quality management system standards",
+                "Beautiful appearance, good durability & easy installation",
+                "Special design in accordance with requirements of customers",
+                "10 years product warranty"
+            ]
+        }
+    ]
+}

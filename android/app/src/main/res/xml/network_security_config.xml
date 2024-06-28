@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">http://api.attendanceapp.com.asp1-101.phx1-1.websitetestlink.com/api/HRAPI</domain>
+    </domain-config>
+</network-security-config>

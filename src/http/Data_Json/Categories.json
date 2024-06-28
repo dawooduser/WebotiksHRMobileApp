@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "title": "Solar Panels"
+        },
+        {
+            "id": "2",
+            "title": "Solar Inverters"
+        },
+        {
+            "id": "3",
+            "title": "Solar Batteries"
+        },
+        {
+            "id": "4",
+            "title": "Solar Air Conditioners"
+        },
+        {
+            "id": "5",
+            "title": "Solar Lights"
+        }
+    ]
+}

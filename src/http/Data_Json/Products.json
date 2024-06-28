@@ -1,0 +1,147 @@
+{
+    "Products": [
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/inverter/Inverex-Nitrox12KW-48VSolar-inverter-Three-phase.jpg"
+            ],
+            "category_id": "2",
+            "title": "Inverex Nitrox 12 KW - 48 V Solar inverter (Three phase)",
+            "price": "24000",
+            "product_detail": [
+                "15600 WATTS MPPT SUPPORTS UP TO 600 WATTS SOLAR PANEL",
+                "240 AMP Solar charger",
+                "Smart Pv Monitoring Platform",
+                "Stick logger",
+                "Max. Efficiency 97.6%",
+                "Support Multiple Parallel",
+                "Zero Export",
+                "RS485 / CAN",
+                "Efficiency",
+                "IP65 Ingress Protection",
+                "Support Generator Connection",
+                "High Surge Endurance",
+                "High Power Factor",
+                "Touch Screen Display",
+                "MPPT",
+                "Internal SPD",
+                "Six-Time of Use Setting Safe",
+                "Built-in AC Breaker",
+                "Dual 3 Phase Output"
+            ]
+        },
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/inverter/Inverex-Yukon-II-3.5-KW-24V-Solar-Inverter.jpg"
+            ],
+            "category_id": "2",
+            "title": "Inverex Yukon II 3.5 KW-24V Solar Inverter",
+            "price": "24000",
+            "product_detail": [
+                "High-efficiency pure sine wave inverter (PF=1)",
+                "Wide PV input range (60Vdc-500Vdc) 120A MPPT SCC",
+                "Intelligent 3 stage 80A AC battery charger. Intelligent functionality enables utility and solar input prioritization.",
+                "System configures quickly into a compact, wallmounted system.",
+                "Enhance MPPT solar charger controller up to 120 Ampere.",
+                "Efficiently works without battery.",
+                "Adaptable to Main voltage/ Generator Power.",
+                "Built-in Anti Dust kit.",
+                "Cold start function."
+            ]
+        },
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/plates/6.jpg"
+            ],
+            "category_id": "1",
+            "title": "180- Watt Mono Perc Solar Panel",
+            "price": "24000",
+            "product_detail": [
+                "Industry leading module power output warranty",
+                "International quality, safety and performance certifications",
+                "Manufacturing facility certified to 1S09001 quality management system standards",
+                "Beautiful appearance, good durability & easy installation",
+                "Special design in accordance with requirements of customers",
+                "10 years product warranty"
+            ]
+        },
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/plates/5.jpg"
+            ],
+            "category_id": "1",
+            "title": "Inverex Mustang Series 530 to 550 Watt Mono crystalline Perc half cut cell",
+            "price": "24000",
+            "product_detail": [
+                "Multi-main gate technology",
+                "Superior load capacity",
+                "High module conversion efficiency",
+                "Excellent low-light performance",
+                "Low attenuation long warranty",
+                "Low BOS and KWH cost",
+                "Reduce heat spot effect",
+                "Higher Bi-facially",
+                "15 Year Warranty"
+            ]
+        },
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/plates/3.jpg"
+            ],
+            "category_id": "1",
+            "title": "Inverex Mustang Series 530 to 550 Watt Mono crystalline Perc half cut cell",
+            "price": "24000",
+            "product_detail": [
+                "Highly transparent self-cleaning glass brings additional yield and easy maintenance",
+                "Sand blowing test, salt mist test and ammonia test passed to endure harsh environments",
+                "Optimized system performance due to module level current sorting",
+                "Selected encapsulating material and stringent production process control ensure the product is highly PID resistant and snail trails free",
+                "Lower LID due to lower oxygen and carbon content",
+                "Special cutting and soldering technology leads to low hotspot risk",
+                "Delivers Reliable Performance over Time",
+                "Manufacturer of crystalline silicon photovoltaic modules",
+                "Fully automatic facility and world-class technology",
+                "Rigorous quality control to meet the highest standard: IS09001:2015, IS014001: 2015 and OHSAS: 18001 2007",
+                "Tested for harsh environments (salt mist, ammonia corrosion and sand blowing test: IEC 61701, IEC 62716, DIN EN 60068-2- 68",
+                "Long term reliability tests",
+                "2x100% EL inspection ensuring defect-free modules",
+                "10 Years Product Warranty"
+            ]
+        },
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/batteries/batteries-3.jpg"
+            ],
+            "category_id": "3",
+            "title": "Inverex Tall Tubular 12V-165Ah Battery",
+            "price": "24000",
+            "product_detail": [
+                "Domestic inverter/UPS System",
+                "Solar &wind power storage",
+                "Fire alarm& security systems",
+                "Emergency lighting Telecommunication Elevator back-ups Hotel, banks, office use",
+                "Fast charging Electrolyte level indicator",
+                "Long-life",
+                "Supports frequent/long power cuts",
+                "Warranty 12Months"
+            ]
+        },
+        {
+            "images": [
+                "https://aptinverex.com/assets/img/product/batteries/batteries-1.jpg"
+            ],
+            "category_id": "3",
+            "title": "Inverex Tall Tubular 12V-220Ah Battery",
+            "price": "24000",
+            "product_detail": [
+                "Domestic inverter/UPS System",
+                "Solar &wind power storage",
+                "Fire alarm& security systems",
+                "Emergency lighting Telecommunication Elevator back-ups Hotel, banks, office use",
+                "Fast charging Electrolyte level indicator",
+                "Long-life",
+                "Supports frequent/long power cuts",
+                "Warranty 12Months"
+            ]
+        }
+    ]
+}
